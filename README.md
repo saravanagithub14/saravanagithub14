@@ -1,3 +1,5 @@
+# Saravana Perumal R.
+Jr. Data Scientist | Researcher | Biologist |Freelance Teacher
 ### Hi there 👋 I'm a Data scientist, all I do is learn techniques to make the data talk to me 
 
 - 🏢 I’m currently working at Dexpro innovations 

@@ -1,8 +1,3 @@
-# Saravana Perumal R.
-
-
-
-
 
 # 👋I'm **Saravana Perumal R.**  
 ### *Data Scientist | Researcher | Biologist | Freelance Teacher*

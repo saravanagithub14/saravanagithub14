@@ -9,7 +9,7 @@
 ### 🧠 About Me  
 - 🏢 Currently working at **Dexpro Innovations**  
 - 🧬 A **Biologist turned Data Scientist** who loves finding life in data  
-- 📘 Currently exploring **Image Processing for Machine Learning**  
+- 📘 Currently exploring **Gen AI**  
 - 💡 Interested in **AI for Biology**, **Healthcare**, and **Education**  
 - 🤫 Fun fact: I love **biology** more than data science (but don’t tell data science that!)
 

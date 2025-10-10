@@ -3,7 +3,7 @@ Data Scientist | Researcher | Biologist |Freelance Teacher
 ### Hi there 👋 I'm a Data scientist, all I do is learn techniques to make the data talk to me 
 
 - 🏢 I’m currently working at Dexpro innovations 
-- 📔 I’m currently learning Image processing for Machine Learning
+- 📔 I’m currently learning Gen AI and how to optimise it for various application.
 - 🤫 Here is something you want to know about me, I love biology more than data science......................
 
 ### 💻 Tech Stack  

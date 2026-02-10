@@ -1,6 +1,6 @@
 
 # 👋I'm **Saravana Perumal R.**  
-### *Data Scientist | Researcher | Biologist | Freelance Teacher*
+### *AI Engineer | Researcher | Biologist | Freelance Teacher*
 
 > _“All I do is learn techniques to make the data talk to me.”_
 

@@ -1,11 +1,11 @@
 # 👋 I'm **Saravana Perumal R.**
-### *AI Engineer | Researcher | Biologist | Freelance Teacher*
+### *AI Engineer | Researcher | Biologist | AI Mentor*
 > _"All I do is learn techniques to make the data talk to me."_
 
 ---
 
 ### 🧠 About Me
-- 🏢 Currently working at **Dexpro Innovations**
+- 🏢 Currently working at **BlackBox Learning**
 - 🧬 A **Biologist turned AI Engineer** who loves finding life in data
 - 📘 Currently deep-diving into **Generative AI & LLM Engineering**
 - 💡 Interested in **AI for Biology**, **Healthcare**, and **Education**
@@ -72,7 +72,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-1E90FF?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
 
 #### 🧑‍💻 **Dev Tools**
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)

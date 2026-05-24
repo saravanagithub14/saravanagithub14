@@ -1,11 +1,11 @@
 # 👋 I'm **Saravana Perumal R.**
-### *AI Engineer | Researcher | Biologist | Freelance Teacher*
-> _"All I do is learn techniques to make the data talk to me."_
+### *AI Engineer | Researcher | Biologist | AI Mentor*
+> _"All i do is build solutions for problemms"_
 
 ---
 
 ### 🧠 About Me
-- 🏢 Currently working at **Dexpro Innovations**
+- 🏢 Currently working at **Blackbox learning**
 - 🧬 A **Biologist turned AI Engineer** who loves finding life in data
 - 📘 Currently deep-diving into **Generative AI & LLM Engineering**
 - 💡 Interested in **AI for Biology**, **Healthcare**, and **Education**
@@ -35,6 +35,9 @@
 #### 🖥️ **App Development & Deployment**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
+![LangServe](https://img.shields.io/badge/LangServe-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### 🧩 **NLP**
 ![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=semanticweb&logoColor=white)
@@ -43,9 +46,19 @@
 #### 📈 **Machine Learning & Deep Learning**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-4682B4?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-483D8B?style=for-the-badge)
 ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-6A5ACD?style=for-the-badge)
+
+#### ⚙️ **MLOps & AutoML**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![AutoML](https://img.shields.io/badge/AutoML-00897B?style=for-the-badge)
+![TPOT](https://img.shields.io/badge/TPOT-29ABE2?style=for-the-badge)
+![Auto-sklearn](https://img.shields.io/badge/Auto--Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-2980B9?style=for-the-badge)
 
 #### 🧩 **Data Analysis & Visualization**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -64,6 +77,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
